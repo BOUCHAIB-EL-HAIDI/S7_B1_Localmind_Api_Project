@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.router-link-active:not([to="/"]):not([to="/favorites"]):not([to="/questions"]) {
+    @apply border-indigo-500 text-slate-900;
+}
