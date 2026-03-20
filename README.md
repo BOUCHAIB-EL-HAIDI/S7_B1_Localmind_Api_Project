@@ -36,7 +36,7 @@ LocalMind is a modern, high-performance Community Q&A platform built with **Lara
 - PHP 8.2+
 - Node.js & NPM
 - Composer
-- SQLite/MySQL
+- PostgreSQL
 
 ### Installation
 
